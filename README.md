@@ -1,4 +1,4 @@
-Automação para Scarface: The World is Yours
+# Automação para Scarface: The World is Yours
 
 Este projeto é uma automação simples, desenvolvida em Python, para realizar ações repetitivas no menu do jogo Scarface: The World is Yours. A automação foi criada para facilitar o uso de cheats no jogo, automatizando alguns passos para ativar o cheat que preenche o BALLS necessário para trocar por dinheiro.
 Descrição
@@ -33,8 +33,9 @@ Comando para Instalar as Bibliotecas
 
 Para instalar as bibliotecas necessárias, execute o seguinte comando:
 
+```bash
 pip install pyautogui
-
+```
 Caso ainda não tenha o pip instalado, você pode seguir as instruções de instalação do pip para a versão do Python que está utilizando: https://pip.pypa.io/en/stable/installation/
 Habilitar a Jogabilidade com Teclado
 
@@ -79,7 +80,7 @@ Cheats para Scarface: The World is Yours
     S12: Desbloqueia a missão "The Exchange".
     S07A: Desbloqueia a missão "The Chase".
 
-Como Rodar o Código
+*Como Rodar o Código*
 
 Para executar o código, certifique-se de estar na pasta onde o arquivo .py está localizado. Caso contrário, o comando não funcionará.
 
