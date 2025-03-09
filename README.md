@@ -53,43 +53,39 @@ https://i.imgur.com/fHsyzbm.png
 
 Cheats para Scarface: The World is Yours
 
-MEDIK: Restaura a saúde de Tony Montana.
-FPATCH: Concede 1.000 balas de precisão.
-AMMO: Restaura a munição de todas as armas.
+    MEDIK: Restaura a saúde de Tony Montana.
+    FPATCH: Concede 1.000 balas de precisão.
+    AMMO: Restaura a munição de todas as armas.
+    GOBALLS: Aumenta o nível de atividade da gangue (gang heat).
+    NOBALLS: Diminui o nível de atividade da gangue.
+    DONUT: Aumenta o nível de atenção policial (cop heat).
+    FLYSTRT: Diminui o nível de atenção policial.
+    MARTHA: Altera a hora do dia.
+    RAINY: Ativa condições climáticas de chuva.
+    SHAZAAM: Ativa efeitos climáticos de raios.
+    BLACK: Altera o traje de Tony para uma roupa preta.
+    WHITE: Altera o traje de Tony para uma roupa branca.
+    GREY: Altera o traje de Tony para uma roupa cinza.
+    TANSHRT: Altera o traje de Tony para uma camisa bege.
+    TIGSHRT: Altera o traje de Tony para uma camisa de tigre.
+    BLUESH: Altera o traje de Tony para um terno azul com óculos escuros.
+    WHITESH: Altera o traje de Tony para um terno branco com óculos escuros.
+    TBURGLR: Repara o veículo atual.
+    OLDFAST: Altera o veículo atual para um modelo mais antigo.
+    S13: Desbloqueia a missão "Babylon Club Redux".
+    DW_FRON: Desbloqueia a missão "The Front".
+    S12: Desbloqueia a missão "The Exchange".
+    S07A: Desbloqueia a missão "The Chase".
 
-GOBALLS: Aumenta o nível de atividade da gangue (gang heat).
-NOBALLS: Diminui o nível de atividade da gangue.
-DONUT: Aumenta o nível de atenção policial (cop heat).
-FLYSTRT: Diminui o nível de atenção policial.
-
-MARTHA: Altera a hora do dia.
-RAINY: Ativa condições climáticas de chuva.
-SHAZAAM: Ativa efeitos climáticos de raios.
-
-BLACK: Altera o traje de Tony para uma roupa preta.
-WHITE: Altera o traje de Tony para uma roupa branca.
-GREY: Altera o traje de Tony para uma roupa cinza.
-TANSHRT: Altera o traje de Tony para uma camisa bege.
-TIGSHRT: Altera o traje de Tony para uma camisa de tigre.
-BLUESH: Altera o traje de Tony para um terno azul com óculos escuros.
-WHITESH: Altera o traje de Tony para um terno branco com óculos escuros.
-
-TBURGLR: Repara o veículo atual.
-OLDFAST: Altera o veículo atual para um modelo mais antigo.
-
-S13: Desbloqueia a missão "Babylon Club Redux".
-DW_FRON: Desbloqueia a missão "The Front".
-S12: Desbloqueia a missão "The Exchange".
-S07A: Desbloqueia a missão "The Chase".
 Como Rodar o Código
 
 Para executar o código, certifique-se de estar na pasta onde o arquivo .py está localizado. Caso contrário, o comando não funcionará.
 
 Exemplo:
 
-    Abra o Prompt de Comando ou Terminal.
+Abra o Prompt de Comando ou Terminal.
 
-    Navegue até a pasta onde o código está salvo usando o comando cd:
+ Navegue até a pasta onde o código está salvo usando o comando cd:
 ```bash
 cd caminho/para/a/pasta
 ```
