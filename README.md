@@ -43,13 +43,15 @@ Posicionar Tony Montana
 
 Tony Montana precisa estar posicionado em frente ao trailer, localizado em um beco em Little Havana. A automação só irá funcionar se Tony estiver nesse local.
 
-https://i.imgur.com/QNgwGlb.png
+![Imagem de exemplo](https://i.imgur.com/QNgwGlb.png)
 
 Em seguida, a automação entra no menu do jogo, seleciona a opção CHEATS e ativa o cheat FPATCH, que preenche o BALLS necessário para trocá-los por dinheiro no jogo.
 
-https://i.imgur.com/0BawhlT.png
+![Imagem de exemplo](https://i.imgur.com/0BawhlT.png)
 
-https://i.imgur.com/fHsyzbm.png
+![Imagem de exemplo](https://i.imgur.com/fHsyzbm.png)
+
+
 
 Cheats para Scarface: The World is Yours
 
